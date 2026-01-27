@@ -1,0 +1,16 @@
+ // ==UserScript==
+// @name         Hiếu Chess.com Assist V2.5
+// @namespace    https://example.com
+// @version      2.5
+// @description  Chess.com Legit/Blarant Cheat By Hiếu Dz
+// @author       Hiếu
+// @match        https://www.chess.com/*
+// @require      https://cdnjs.cloudflare.com/ajax/libs/chess.js/0.10.3/chess.min.js
+// @require https://raw.githubusercontent.com/Nguoibianhz/Chess-Assist/main/core.js
+// @grant        GM_addStyle
+// @grant        GM_xmlhttpRequest
+// @grant        unsafeWindow
+// @connect      127.0.0.1
+// @connect      localhost
+// @run-at       document-end
+// ==/UserScript==
