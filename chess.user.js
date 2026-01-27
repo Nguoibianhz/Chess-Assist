@@ -6,7 +6,6 @@
 // @author       Hiếu
 // @match        https://www.chess.com/*
 // @require      https://cdnjs.cloudflare.com/ajax/libs/chess.js/0.10.3/chess.min.js
-// core sau
 // @require      https://raw.githubusercontent.com/Nguoibianhz/Chess-Assist/main/core.js
 // @grant        GM_addStyle
 // @grant        GM_xmlhttpRequest
