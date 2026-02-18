@@ -7,6 +7,7 @@
 // @match        https://www.chess.com/*
 // @match        https://lichess.org/*
 // @require      https://cdnjs.cloudflare.com/ajax/libs/chess.js/0.10.3/chess.min.js
+// @require      https://github.com/Nguoibianhz/Chess-Assist/raw/refs/heads/main/core.js
 // @grant        GM_addStyle
 // @grant        GM_xmlhttpRequest
 // @grant        unsafeWindow
