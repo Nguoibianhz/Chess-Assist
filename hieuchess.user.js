@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         nope
+// @name         Chess.com Cheater 
 // @namespace    https://example.com
-// @version      2.2
-// @description  Multi-engine (SF10/SF17/Local 17.1) + Auto-suggest + Auto-move + Collapsible UI
+// @version      3.6
+// @description  Hỗ trợ đa engine , Auto move, auto suggest, legit-blarant cheat chess 
 // @author       Hiếu
 // @match        https://www.chess.com/*
 // @match        https://lichess.org/*
